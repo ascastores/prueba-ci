@@ -8,7 +8,7 @@ public class HolaMundo {
     String naranja = "\033[33m";
     String azul = "\033[34m";
     //Cambio en rama master
-    System.out.println(naranja + "Hola" + azul + " mundo tag");
+    System.out.println(naranja + "Hola" + azul + " mundo");
     //cambio en branch
   }
 }
