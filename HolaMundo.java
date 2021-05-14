@@ -1,6 +1,6 @@
 /**
  * Hola mundo en Java
- * 
+ *
  * @author Luis José Sánchez
  */
 public class HolaMundo {
